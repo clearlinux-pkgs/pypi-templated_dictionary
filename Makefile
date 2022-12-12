@@ -1,5 +1,5 @@
 PKG_NAME := pypi-templated_dictionary
-URL = https://files.pythonhosted.org/packages/22/4d/cd73de22b8b345e57677c80c26381e25abef19cab9495c91b1627af7621b/templated-dictionary-1.1.tar.gz
+URL = https://files.pythonhosted.org/packages/16/32/5e9726056345a1943d250ac51d2c17476f965495554d058c9dd308d790fa/templated-dictionary-1.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
