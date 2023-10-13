@@ -4,7 +4,7 @@
 #
 Name     : pypi-templated_dictionary
 Version  : 1.2
-Release  : 16
+Release  : 17
 URL      : https://files.pythonhosted.org/packages/16/32/5e9726056345a1943d250ac51d2c17476f965495554d058c9dd308d790fa/templated-dictionary-1.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/16/32/5e9726056345a1943d250ac51d2c17476f965495554d058c9dd308d790fa/templated-dictionary-1.2.tar.gz
 Summary  : Dictionary with Jinja2 expansion
